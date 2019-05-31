@@ -2,10 +2,8 @@ package studio.bz_soft.games.root
 
 import androidx.fragment.app.Fragment
 import ru.terrakok.cicerone.android.support.SupportAppScreen
-//import studio.bz_soft.games.data.models.Article
 import studio.bz_soft.games.ui.main.MainFragment
-//import studio.bz_soft.games.ui.main.detailednews.DetailedNewsFragment
-//import studio.bz_soft.games.ui.main.newsupdates.NewsUpdatesFragment
+import studio.bz_soft.games.ui.main.news.NewsFragment
 
 sealed class Screens : SupportAppScreen() {
 
@@ -17,7 +15,7 @@ sealed class Screens : SupportAppScreen() {
 //        override fun getFragment(): Fragment = DetailedNewsFragment.instance(ic_news)
 //    }
 //
-//    object NewsUpdatesScreen : Screens() {
-//        override fun getFragment(): Fragment = NewsUpdatesFragment.instance()
-//    }
+    object NewsScreen : Screens() {
+        override fun getFragment(): Fragment = NewsFragment.instance()
+    }
 }
