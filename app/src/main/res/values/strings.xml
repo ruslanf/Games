@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Games</string>
+
+    <string name="main_menu_title_news">News</string>
+    <string name="main_menu_title_results">Results</string>
+    <string name="main_menu_title_calendar">Calendar</string>
+    <string name="main_menu_title_commands">Commands</string>
+    <string name="main_menu_title_tournaments">Tournaments</string>
+</resources>
