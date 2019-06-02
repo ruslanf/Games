@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Игры</string>
+
+    <string name="main_menu_title_news">Новости</string>
+    <string name="main_menu_title_results">Результаты</string>
+    <string name="main_menu_title_calendar">Календарь</string>
+    <string name="main_menu_title_commands">Команды</string>
+    <string name="main_menu_title_tournaments">Турниры</string>
+</resources>
