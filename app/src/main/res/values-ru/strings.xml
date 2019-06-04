@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">eSport Advisor</string>
+    <string name="app_name">ESA - eSport Advisor</string>
 
     <string name="main_menu_title_news">Новости</string>
     <string name="main_menu_title_results">Результаты</string>
