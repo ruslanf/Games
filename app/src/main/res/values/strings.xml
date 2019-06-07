@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">ESA - eSport Advisor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="main_menu_title_news">News</string>
     <string name="main_menu_title_results">Results</string>
     <string name="main_menu_title_calendar">Calendar</string>
     <string name="main_menu_title_commands">Commands</string>
     <string name="main_menu_title_tournaments">Tournaments</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
