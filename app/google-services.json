@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313340569778",
+    "firebase_url": "https://esa-esport-advisor.firebaseio.com",
+    "project_id": "esa-esport-advisor",
+    "storage_bucket": "esa-esport-advisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313340569778:android:e73e3fab139bca6f",
+        "android_client_info": {
+          "package_name": "com.eSport.advisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313340569778-t8fri487f83cj01mqq837jm4d4p047vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTpPAcz1IaRNGovYhVVD0bP8xKFCXBuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313340569778-t8fri487f83cj01mqq837jm4d4p047vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
